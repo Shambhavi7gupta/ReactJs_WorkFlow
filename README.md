@@ -33,7 +33,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/sumansauravmay/ReactJs_Workflow_builder_application.git
+  git clone https://github.com/shambhavi7gupta/ReactJs_Workflow.git
 ```
 
 Go to the project directory
