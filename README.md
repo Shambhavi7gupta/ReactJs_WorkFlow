@@ -27,29 +27,6 @@
 - All Posts in brief manner with Express,mongodb,Nodejs & React.
 - Drag and Drop the CSV file and will be converted in the JSON.
 
-## Screenshots
-
-### Homepage -
-
-This is the main landing page of our website.
-
-All pages are responsive.
-
-![landing_page](https://i.postimg.cc/Dz9FKd65/landing.jpg)
-
-### React WorkFlow Page -
-
-Here users can make the workflow and a random id will be generated.
-
-![Workflow page](https://i.postimg.cc/Dz9FKd65/landing.jpg)
-
-### Drag And Drop Page -
-
-![Drag And Drop](https://i.postimg.cc/RFxrYCCD/draganddrop.jpg)
-
-### Output -
-
-![Drag And Drop_Page_Output](https://i.postimg.cc/QMgWKdyg/output.jpg)
 
 ## Run Locally
 
